@@ -1,0 +1,20 @@
+
+ALTRI CODICI MORSE
+. Punto   . - . - . -
+, Virgola   - - . . - -
+/ Barra   - . . - .
++ Più   . - . - .
+= Uguale   - . . . -
+? Punto di domanda   . . - - . .
+( Parentesi aperta   - . - - .
+) Parentesi chiusa   - . - - . -
+! Punto esclamativo   - . - . - -
+- Trattino o meno   - . . . . -
+" Virgolette doppie   . - . . - .
+_ Sottolineato   . . - - . -
+' Virgoletta   . - - - - .
+: Due punti   - - - . . .
+; Punto e virgola   - . - . - .
+$ Dollaro   . . . - . . -
+@ Chiocciola   . - - . - .
+& e commerciale   . - . . .
